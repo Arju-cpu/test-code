@@ -1,0 +1,9 @@
+speaker = "fire Boult"
+print(speaker.upper())
+print(speaker.lower())
+print(speaker.title())
+print(speaker.lstrip())
+print("fire" not in speaker)
+print(speaker.find("u"))
+print(speaker.replace("B", "r"))
+print("car" in speaker)
